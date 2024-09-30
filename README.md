@@ -7,7 +7,7 @@ This is an open-source extension of [shadcn/ui](https://github.com/shaddcn-ui/ui
 
 ## Screenhsots
 
-![Customizer](https://raw.githubusercontent.com/chrisuworld/shadcn-example/main/ss.png)
+![Customizer](https://raw.githubusercontent.com/chrisuworld/shadcn-example/master/ss.png)
 
 ## Features
 
